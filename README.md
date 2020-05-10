@@ -1,6 +1,6 @@
 ## Aplicacion de comandos
 
-Estes es un ejercicio del curdo nodejs
+Estes es un ejercicio del curso nodejs
 
 recuerden instalar los paquetes necesarios
 
